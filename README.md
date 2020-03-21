@@ -1,2 +1,0 @@
-# exportreactjstest
-Created with CodeSandbox
